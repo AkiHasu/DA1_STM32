@@ -1,0 +1,7 @@
+../Core/Inc/dht22.c:11:6:DHT_Delay_Init	1
+../Core/Inc/dht22.c:16:6:DHT_Delay_us	2
+../Core/Inc/dht22.c:22:13:Set_Pin_Output	1
+../Core/Inc/dht22.c:31:13:Set_Pin_Input	1
+../Core/Inc/dht22.c:40:16:DHT22_Start	1
+../Core/Inc/dht22.c:54:16:DHT22_Read_Response	4
+../Core/Inc/dht22.c:73:9:DHT22_Read_Data	11

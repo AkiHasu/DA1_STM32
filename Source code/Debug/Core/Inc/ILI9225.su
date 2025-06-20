@@ -1,0 +1,17 @@
+../Core/Inc/ILI9225.c:123:6:spi_write	16	static
+../Core/Inc/ILI9225.c:132:6:lcd_write_data	16	static
+../Core/Inc/ILI9225.c:146:6:lcd_write_command	16	static
+../Core/Inc/ILI9225.c:160:6:lcd_write_register	16	static
+../Core/Inc/ILI9225.c:171:6:swap_int	24	static
+../Core/Inc/ILI9225.c:180:6:swap_char	24	static
+../Core/Inc/ILI9225.c:190:6:delay_ms	16	static
+../Core/Inc/ILI9225.c:203:6:lcd_init	8	static
+../Core/Inc/ILI9225.c:225:6:lcd_init_command_list	8	static
+../Core/Inc/ILI9225.c:301:6:draw_pixel	16	static
+../Core/Inc/ILI9225.c:317:6:fill_rectangle	40	static
+../Core/Inc/ILI9225.c:358:6:set_draw_window	24	static
+../Core/Inc/ILI9225.c:387:6:draw_char	48	static
+../Core/Inc/ILI9225.c:420:6:draw_fast_char	48	static
+../Core/Inc/ILI9225.c:478:6:draw_string	40	static
+../Core/Inc/ILI9225.c:500:6:draw_fast_string	40	static
+../Core/Inc/ILI9225.c:517:6:draw_bitmap	64	static
